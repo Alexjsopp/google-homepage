@@ -1,0 +1,51 @@
+.main {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+.logo-area {
+  height: 233px;
+}
+
+#hplogo {
+  padding-top: 109px;
+}
+
+.search {
+  text-align: center;
+}
+
+.search-box {  
+  display: inline-block;
+  height: 46px;
+  width: 584px;
+  border: 1px solid rgb(223, 225, 229);
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.search-box input {
+  width: 487px;
+  height: 34px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  /* padding needed */
+}
+
+.search-buttons {
+  padding-top: 18px;
+}
+
+.search-buttons input {
+  height: 34px;
+  background-color: rgb(242,242,242);
+  border: solid 1px;
+  border-color: rgb(242,242,242);
+  border-radius: 4px;
+  outline: none;
+  padding: 0 16px;
+  margin: 11px 4px;
+  color: rgb(95,99,104);
+  font-size: 14px;
+}
