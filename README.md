@@ -1,3 +1,5 @@
+*Google Homepage Recreation*
+
 This is my first html/CSS project
 
 The goal is to reproduce the Google homepage only using html and CSS
